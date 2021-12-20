@@ -1,0 +1,217 @@
+
+body{
+    margin: 0;
+    margin-left: 0;
+    padding: 0;
+    
+}
+.bor{
+    
+}
+.c1{
+    height:650px;
+    opacity:100%;
+    background-color:#1F1627;
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+
+}
+.c11{
+    color: white;
+}
+.c111{
+    letter-spacing: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.c1111{
+    width: 70px;
+}
+.c11111{
+    letter-spacing: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+}
+.c2{
+    background-image: url('download.jpg');
+    background-size: cover;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    margin-top: -70px;
+    height: 650px;
+    opacity: 1;
+}
+.c22{
+    height:650px;
+    background-color:#DFD6CD;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    opacity: 0.9;
+    
+}
+.c222{
+    color: black;
+     
+}
+.c2222{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.c22222{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.c3{
+    height:650px;
+    background-color:#1E1422;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    opacity:0.9;
+    margin-top: -70px;
+}
+.c33{
+    font-family: 'Times New Roman', Times, serif;
+}
+.c333{
+    color: white;
+}
+.c3333{
+    font-size: 150px;
+}
+.c4{
+    background-image: url('download-1.jpg');
+    background-size: cover;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    margin-top: -70px;
+    height: 650px;
+    opacity: 1;
+}
+.c44{
+    height: 650px;
+    background-color:#DCB1B0;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    opacity: 0.9;
+    font-family: 'Times New Roman', Times, serif;
+}
+.c444{
+    color:black;
+}
+.c5{
+    height:650px;
+    background-color:#F2A4B6;
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    opacity: 0.9;
+    margin-top: -70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.c55{
+    color: white;
+}
+.c6{
+    background-image: url('download-2.jpg');
+    background-size: cover;
+    clip-path:polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    margin-top: -70px;
+    height: 650px;
+    opacity: 1;
+}
+.c66{
+    height: 650px;
+    background-color: #B7C0C7;
+    clip-path:polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    opacity: 0.9;
+    margin-top: -70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.c666{
+    color: black;
+}
+.c7{
+    background-image: url('download-3.jpg');
+    background-size: cover;
+    clip-path:polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    margin-top: -70px;
+    height: 650px;
+    opacity: 1;
+}
+.c77{
+    height:650px;
+    opacity:0.9;
+    background-color:#1F1627;
+    clip-path:polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    margin-top: -70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.c777{
+    color:rgb(238, 173, 195);
+}
+.c777777{
+    color: white;
+}
+.c7777{
+    color: rgb(238, 173, 195);
+}
+.c77777{
+    color: rgb(238, 173, 195);
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.6;
+}
+.c8{
+    background-image: url('download-4.jpg');
+    background-size: cover;
+    clip-path:polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    margin-top: -70px;
+    height: 650px;
+    opacity: 1;
+}
+.c88{
+    height:650px;
+    opacity:0.9;
+    background-color:#F8C4CC;
+    clip-path:polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    margin-top: -70px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.c888{
+    color: black;
+}
+.c8888{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    opacity: 0.6;
+}
+.c99{
+    height:750px;
+    opacity:0.9;
+    background-color:#FFE5CF;
+    clip-path:polygon(0 10%, 100% 0, 100% 90%, 0% 100%);
+    margin-top: -70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.c999{
+    color: black;
+}
+.c9999{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    opacity: 0.6;
+}
+.c10{
+    height:500px; 
+    background-color:#DBDCDE;
+    clip-path:polygon(0 10%, 100% 0, 100% 100%, 0 100%);
+    margin-top: -70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.c100{
+    color: #939598;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c101{
+    color: black;
+}
+.footer{
+    border:1px solid #919091;
+}
+.foot1,.foot2{
+    font-size: 20px;
+    color:#8f9091;
+    font-weight: 700;
+}
